@@ -50,17 +50,23 @@ button {
   padding: 10px 20px;
 }
 
+.container {
+  padding: 7%;
+}
+
 .SecondoParagrafo {
   display: inline-block;
-  padding: 10%;
-  line-height: 1.7;
+  line-height: 1.2;
   justify-items: left;
+  font-size: smaller;
 }
 
 #pc {
-  width: 200px;
+  width: 150px;
   height: auto;
+  display: inline-block;
   border-radius: 50%;
+  margin-right: 30px;
 }
 
 h3 {
@@ -91,11 +97,13 @@ h3 {
 }
 
 .Box {
-  padding: 0%;
-  margin: 25px 75px;
+  margin: 25px;
+  width: 150px;
+  height: auto;
   line-height: 1.7;
   font-size: smaller;
   box-shadow: hsl(0, 0%, 58%) 0px 0px 0px 0.1px;
+  display: inline-block;
 }
 
 #Contattaci {
