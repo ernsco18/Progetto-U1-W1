@@ -93,6 +93,7 @@ h3 {
   line-height: 1.7;
   font-size: smaller;
   box-shadow: hsl(0, 0%, 58%) 0px 0px 0px 0.1px;
+  border-radius: 1%;
 }
 
 #Contattaci {
