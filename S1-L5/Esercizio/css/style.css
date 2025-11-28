@@ -1,0 +1,115 @@
+/* Your styles here */
+/* E PEKKEH */
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 0% 10%;
+}
+
+h1,
+h2 {
+  color: #25a2c3;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+header {
+  background-color: hsl(0, 0%, 0%);
+  width: 100%;
+  padding: 3%;
+}
+
+body {
+  color: #393d41;
+  font-family: "Open Sans", sans-serif;
+}
+
+.PrimoParagrafo {
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  height: 300px;
+  padding: 10%;
+  line-height: 1.65;
+}
+
+button {
+  background-color: #f04c2f;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+}
+
+.SecondoParagrafo {
+  padding: 10%;
+  line-height: 1.7;
+}
+
+#pc {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  margin-bottom: 30px;
+  font-size: large;
+}
+
+.TerzoParagrafo {
+  background-color: #e22d0e;
+  color: hsl(0, 0%, 100%);
+  line-height: 1.7;
+  padding: 7%;
+  font-size: small;
+}
+
+#corsivo {
+  font-style: italic;
+}
+
+#CEO {
+  font-size: 5%;
+}
+
+.foto {
+  max-width: 100%;
+}
+
+.Box {
+  padding: 0%;
+  margin: 25px 75px;
+  line-height: 1.7;
+  font-size: smaller;
+  box-shadow: hsl(0, 0%, 58%) 0px 0px 0px 0.1px;
+}
+
+#Contattaci {
+  color: hsl(0, 0%, 100%);
+  padding: 3%;
+}
+
+footer {
+  background-color: #25a2c3;
+  color: hsl(0, 0%, 100%);
+  line-height: 1.7;
+}
+
+footer a {
+  color: hsl(0, 0%, 100%);
+}
+
+footer hr {
+  width: 50%;
+}
